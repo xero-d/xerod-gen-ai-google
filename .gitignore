@@ -1,0 +1,49 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Vite cache
+.vite/
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Mac .DS_Store
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+
+# Generated files
+*.log
+
+# Coverage
+coverage/
+
+# Miscellaneous
+*.local
+
+# Lock files (optional)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
